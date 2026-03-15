@@ -23,7 +23,13 @@ Mandatory EDA Components:
 
 ● Missing Values Analysis: Visualize missing data patterns using heatmaps or barcharts. Identify which features have missing data and howmuch.
 
-● Numerical Features: For each numerical feature: histogram, distribution shape(skewness, kurtosis),boxplot for outliers, descriptivestatistics.
+● Numerical Features: For each numerical feature: histogram, distribution shape(skewness, kurtosis),boxplot for outliers, descriptive statistics.
 
-●CategoricalFeatures:Foreachcategoricalfeature:valuecounts,barchartshowingclassdistribution,percentagebreakdown.●UnivariateAnalysis:Analyzeeachfeatureindividually:ranges,distributions,concentrations,unusualpatterns.●Bivariate&MultivariateAnalysis:Examinerelationshipsbetweenfeatures:correlationmatrixwithheatmap,scatterplots,cross-tabulations.●TargetVariableAnalysis(SupervisedOnly):Forregression:histogramoftarget,checkforoutliers,skewness.Forclassification:classdistribution,checkforimbalance.
+● Categorical Features:For each categorical feature:valuecounts, barchart showing class distribution, percentage breakdown.
+
+● Univariate Analysis:Analyze each feature individually:ranges, distributions, concentrations, unusualpatterns.
+
+● Bivariate & Multivariate Analysis:Examine relationships between features:correlation matrix with heatmap, scatterplots, cross-tabulations.
+
+●Target Variable Analysis (SupervisedOnly):For regression:histogram of target, check for outliers,s kewness. For classification:class distribution, check for imbalance.
 
