@@ -19,7 +19,11 @@ The project is structured into the following sections:
 
 Mandatory EDA Components:
 
-●Dataset Overview:Rows, columns, datatypes, memory usage, basic statistics (mean, median, std, min, max for  numerical features).
+● Dataset Overview:Rows, columns, datatypes, memory usage, basic statistics (mean, median, std, min, max for  numerical features).
 
-●MissingValuesAnalysis:Visualizemissingdatapatternsusingheatmapsorbarcharts.Identifywhichfeatureshavemissingdataandhowmuch.●NumericalFeatures:Foreachnumericalfeature:histogram,distributionshape(skewness,kurtosis),boxplotforoutliers,descriptivestatistics.●CategoricalFeatures:Foreachcategoricalfeature:valuecounts,barchartshowingclassdistribution,percentagebreakdown.●UnivariateAnalysis:Analyzeeachfeatureindividually:ranges,distributions,concentrations,unusualpatterns.●Bivariate&MultivariateAnalysis:Examinerelationshipsbetweenfeatures:correlationmatrixwithheatmap,scatterplots,cross-tabulations.●TargetVariableAnalysis(SupervisedOnly):Forregression:histogramoftarget,checkforoutliers,skewness.Forclassification:classdistribution,checkforimbalance.
+● Missing Values Analysis: Visualize missing data patterns using heatmaps or barcharts. Identify which features have missing data and howmuch.
+
+● Numerical Features: For each numerical feature: histogram, distribution shape(skewness, kurtosis),boxplot for outliers, descriptivestatistics.
+
+●CategoricalFeatures:Foreachcategoricalfeature:valuecounts,barchartshowingclassdistribution,percentagebreakdown.●UnivariateAnalysis:Analyzeeachfeatureindividually:ranges,distributions,concentrations,unusualpatterns.●Bivariate&MultivariateAnalysis:Examinerelationshipsbetweenfeatures:correlationmatrixwithheatmap,scatterplots,cross-tabulations.●TargetVariableAnalysis(SupervisedOnly):Forregression:histogramoftarget,checkforoutliers,skewness.Forclassification:classdistribution,checkforimbalance.
 
