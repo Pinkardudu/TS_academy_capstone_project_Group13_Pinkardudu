@@ -1,0 +1,4 @@
+Capstone Project (DataScience) 
+Why a Capstone Project?
+This capstone project brings together all the concepts you have learned in to a single, complete data science workflow.
+Ratherthantreatingsupervisedlearning,unsupervisedlearning,andtimeseriesasisolatedtopics,thisprojectrequiresyoutodecidewhichapproachisappropriateforagivenreal-worldproblemandjustifythatdecision.Inprofessionaldatasciencework,problemsarenotpre-labeled.Youareexpectedtoanalyzethedata,understanditsstructure,andchooseamethodthatfitstheproblem.Thiscapstoneevaluatesyourabilityto:
